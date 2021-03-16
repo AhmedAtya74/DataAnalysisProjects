@@ -1,4 +1,6 @@
-# DataCamp-Projects
+DataCamp Projects Submissions
+
+DataCamp-Projects
 
 ## Analyzing TV Data
 ### Project Description
